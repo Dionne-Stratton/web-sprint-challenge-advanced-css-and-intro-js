@@ -22,14 +22,16 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?
     Have your HTML set up so that anyone using a screen reader can understand what it says and have alternate text on all of your pictures that describe them so that anyone unable to view the picture knows what it is of.
 2. Talk about 3 different things you can do to ensure your website is accessible.
   include ""viewport" content="width=device-width, initial-scale=1.0">""
   include "@media"
   make sure HTML is semantic where possible.
 3. How would you explain the concept of a variable to someone new to programming?
+  JavaScript variables are containers for storing data values. They are how we change, manipulate and access data.
 4. What is the purpose of using functions in code?
+  JavaScript a function allows you to define a block of code, give it a name and then execute it as many times as you want. This means that you don't have to perform the same large block of code but simple call the function instead.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
