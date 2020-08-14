@@ -131,27 +131,29 @@ button:hover{
     width:40%;
     text-align:center;
 
-      border: 1px solid grey;
 }
 .artist img{
     width:100%;
 }
 
 @media (max-width: 500px) {
+
   .artist {
-    border: 1px solid grey;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    width: 100%;
     }
 
+
     .artist img {
-      width: 50vw;
+      width: 100%;
     }
+
     .artists-container{
-      border: 1px solid grey;
       display: flex;
       flex-direction: column;
+      text-align: center;
       justify-content: center;
       }
     }
